@@ -2,16 +2,15 @@ This GitHub account was originally created solely to fulfil an application requi
 
 ## Figuring out Github as a complete beginner
 
-words.
-[The ABC](https://www.youtube.com/watch?v=W1ilCy6XrmI)
-emojis
+![Belgium](Belgium.png):+1:
+
+[The ABC](https://www.youtube.com/watch?v=W1ilCy6XrmI) :smiley:
+
+
 lists
 - bullet
 - another bullet
 - and yes, you guessed it, another bullet. 
 
 
-
-I'm supposed to show some understanding of markdown but the youtube tutorials that I've found all seem to assume some knowledge of it
-👌😊
 
