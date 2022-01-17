@@ -8,7 +8,7 @@ This GitHub account was originally created to fulfil an application requirement 
 [The ABC](https://www.youtube.com/watch?v=W1ilCy6XrmI) :smiley:
 
 
-lists
+A list
 - bullet
 - another bullet
 - and yes, you guessed it, another bullet. 
